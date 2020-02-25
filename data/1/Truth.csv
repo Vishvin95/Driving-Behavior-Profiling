@@ -1,0 +1,17 @@
+event,start,finish
+Non-Aggressive,2,6.5
+Aggressive Right Curve,19.5,23.5
+Non-Aggressive,30,33.5
+Aggressive Right Curve,95,98
+Aggressive Left Turn,247,251.5
+Aggressive Left Turn,348.7,352.3
+Non-Aggressive,485,489
+Aggressive Left Turn,496,499.5
+Aggressive Right Curve,587,590
+Aggressive Left Turn,750,753.8
+Aggressive Right Curve,840.7,844
+Aggressive Right Curve,980,983.2
+Aggressive Left Turn,1087.4,1090.9
+Exchange Aggressive Right Lane,1139.8,1142
+Exchange Aggressive Right Lane,1201,1202.9
+Exchange Aggressive Right Lane,1211.4,1213.5

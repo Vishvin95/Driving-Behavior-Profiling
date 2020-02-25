@@ -1,0 +1,23 @@
+event,start,finish
+Non-Aggressive,35,38.6
+Exchange Aggressive Left Turn,23.1,24.7
+Non-Aggressive,85.5,89
+Exchange Aggressive Left Turn,97.7,100
+Exchange Aggressive Left Turn,108.1,110.5
+Non-Aggressive,117,121
+Exchange Aggressive Left Turn,163.3,165.4
+Non-Aggressive,189,193
+Aggressive Breaking,199.1,201.5
+Aggressive Breaking,257.1,260.8
+Aggressive Breaking,289.6,292
+Aggressive Breaking,323.1,325.3
+Aggressive Breaking,340.2,343
+Aggressive Breaking,390.9,392.9
+Aggressive Acceleration,425.5,429
+Aggressive Acceleration,481.6,486.3
+Aggressive Acceleration,514.8,517.2
+Aggressive Acceleration,565,567.8
+Aggressive Acceleration,700,703.2
+Aggressive Acceleration,714,717
+Non-Aggressive,751.5,754.7
+Non-Aggressive,784.6,787.8
